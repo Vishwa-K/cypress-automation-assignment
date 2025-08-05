@@ -1,0 +1,1 @@
+module.exports = { e2e: { baseUrl: 'http://your-app-url.com' } };
